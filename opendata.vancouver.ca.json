@@ -1,0 +1,3128 @@
+{
+  "nhits": 150368,
+  "parameters": {
+    "dataset": "street-trees",
+    "rows": 10,
+    "start": 0,
+    "facet": [
+      "genus_name",
+      "species_name",
+      "common_name",
+      "on_street",
+      "neighbourhood_name",
+      "street_side_name",
+      "curb",
+      "date_planted"
+    ],
+    "format": "json",
+    "timezone": "UTC"
+  },
+  "records": [
+    {
+      "datasetid": "street-trees",
+      "recordid": "75a2b0e4ba32fa853f600878e471e2e426c37ec0",
+      "fields": {
+        "diameter": 25,
+        "genus_name": "PRUNUS",
+        "common_name": "HIGAN CHERRY",
+        "species_name": "SUBHIRTELLA",
+        "assigned": "N",
+        "root_barrier": "N",
+        "plant_area": "11",
+        "curb": "Y",
+        "std_street": "W 42ND AV",
+        "geom": {
+          "coordinates": [
+            -123.18051,
+            49.23375
+          ],
+          "type": "Point"
+        },
+        "on_street": "W 42ND AV",
+        "tree_id": "39520",
+        "civic_number": "3388",
+        "neighbourhood_name": "DUNBAR-SOUTHLANDS",
+        "height_range_id": 2,
+        "on_street_block": "3300",
+        "street_side_name": "EVEN"
+      },
+      "record_timestamp": "2022-10-11T12:23:12.105Z"
+    },
+    {
+      "datasetid": "street-trees",
+      "recordid": "60fa6e562544895e830d455e93ab6f3be7ce8623",
+      "fields": {
+        "diameter": 24.5,
+        "genus_name": "ACER",
+        "common_name": "NORWAY MAPLE",
+        "species_name": "PLATANOIDES",
+        "assigned": "N",
+        "root_barrier": "N",
+        "plant_area": "11",
+        "curb": "Y",
+        "std_street": "W 42ND AV",
+        "geom": {
+          "coordinates": [
+            -123.18093,
+            49.23387
+          ],
+          "type": "Point"
+        },
+        "on_street": "W 42ND AV",
+        "tree_id": "39524",
+        "civic_number": "3429",
+        "neighbourhood_name": "DUNBAR-SOUTHLANDS",
+        "height_range_id": 4,
+        "on_street_block": "3400",
+        "street_side_name": "ODD"
+      },
+      "record_timestamp": "2022-10-11T12:23:12.105Z"
+    },
+    {
+      "datasetid": "street-trees",
+      "recordid": "338106a2ea38dc33d332bd7aa2d49f0fa3d7bc9a",
+      "fields": {
+        "diameter": 2,
+        "genus_name": "QUERCUS",
+        "common_name": "OAK SPECIES",
+        "species_name": "SPECIES",
+        "assigned": "N",
+        "root_barrier": "N",
+        "plant_area": "3",
+        "curb": "Y",
+        "std_street": "W 13TH AV",
+        "geom": {
+          "coordinates": [
+            -123.147768,
+            49.260025
+          ],
+          "type": "Point"
+        },
+        "on_street": "W 13TH AV",
+        "tree_id": "39534",
+        "civic_number": "1885",
+        "neighbourhood_name": "KITSILANO",
+        "height_range_id": 1,
+        "on_street_block": "1800",
+        "street_side_name": "ODD"
+      },
+      "record_timestamp": "2022-10-11T12:23:12.105Z"
+    },
+    {
+      "datasetid": "street-trees",
+      "recordid": "1b6d5dcc00c05340a61fbbfbacf1e05bcc31382c",
+      "fields": {
+        "diameter": 35,
+        "genus_name": "PRUNUS",
+        "common_name": "HIGAN CHERRY",
+        "species_name": "SUBHIRTELLA",
+        "assigned": "N",
+        "root_barrier": "N",
+        "plant_area": "11",
+        "curb": "Y",
+        "std_street": "W 42ND AV",
+        "geom": {
+          "coordinates": [
+            -123.18181,
+            49.23376
+          ],
+          "type": "Point"
+        },
+        "on_street": "W 42ND AV",
+        "tree_id": "39541",
+        "civic_number": "3490",
+        "neighbourhood_name": "DUNBAR-SOUTHLANDS",
+        "height_range_id": 2,
+        "on_street_block": "3400",
+        "street_side_name": "EVEN"
+      },
+      "record_timestamp": "2022-10-11T12:23:12.105Z"
+    },
+    {
+      "datasetid": "street-trees",
+      "recordid": "9fafbea93895686ed621a33e2fda9e8755ed0baf",
+      "fields": {
+        "diameter": 3.5,
+        "genus_name": "ACER",
+        "common_name": "PACIFIC SUNSET MAPLE",
+        "cultivar_name": "PACIFIC SUNSET",
+        "species_name": "TRUNCATUM",
+        "assigned": "N",
+        "root_barrier": "N",
+        "plant_area": "N",
+        "curb": "N",
+        "std_street": "W 47TH AV",
+        "date_planted": "2013-01-07",
+        "geom": {
+          "coordinates": [
+            -123.137316,
+            49.228411
+          ],
+          "type": "Point"
+        },
+        "on_street": "CARTIER ST",
+        "tree_id": "39558",
+        "civic_number": "1392",
+        "neighbourhood_name": "OAKRIDGE",
+        "height_range_id": 1,
+        "on_street_block": "6300",
+        "street_side_name": "EVEN"
+      },
+      "record_timestamp": "2022-10-11T12:23:12.105Z"
+    },
+    {
+      "datasetid": "street-trees",
+      "recordid": "c823892b1ad0cf74f111a5470469ee2490af1697",
+      "fields": {
+        "diameter": 13.75,
+        "genus_name": "QUERCUS",
+        "common_name": "PIN OAK",
+        "species_name": "PALUSTRIS",
+        "assigned": "N",
+        "root_barrier": "N",
+        "plant_area": "9",
+        "curb": "Y",
+        "std_street": "W 42ND AV",
+        "date_planted": "2000-03-16",
+        "geom": {
+          "coordinates": [
+            -123.18348,
+            49.23387
+          ],
+          "type": "Point"
+        },
+        "on_street": "W 42ND AV",
+        "tree_id": "39564",
+        "civic_number": "3551",
+        "neighbourhood_name": "DUNBAR-SOUTHLANDS",
+        "height_range_id": 4,
+        "on_street_block": "3500",
+        "street_side_name": "ODD"
+      },
+      "record_timestamp": "2022-10-11T12:23:12.105Z"
+    },
+    {
+      "datasetid": "street-trees",
+      "recordid": "a41fd28cf7dcbc5a4da3efca89f81d9b28b3aa00",
+      "fields": {
+        "diameter": 22.25,
+        "genus_name": "ACER",
+        "common_name": "NORWAY MAPLE",
+        "species_name": "PLATANOIDES",
+        "assigned": "N",
+        "root_barrier": "N",
+        "plant_area": "12",
+        "curb": "Y",
+        "std_street": "W 42ND AV",
+        "geom": {
+          "coordinates": [
+            -123.18383,
+            49.23386
+          ],
+          "type": "Point"
+        },
+        "on_street": "W 42ND AV",
+        "tree_id": "39568",
+        "civic_number": "3567",
+        "neighbourhood_name": "DUNBAR-SOUTHLANDS",
+        "height_range_id": 4,
+        "on_street_block": "3500",
+        "street_side_name": "ODD"
+      },
+      "record_timestamp": "2022-10-11T12:23:12.105Z"
+    },
+    {
+      "datasetid": "street-trees",
+      "recordid": "0d85ee6e256ed3f5c103dfc047a6def432024f58",
+      "fields": {
+        "diameter": 22,
+        "genus_name": "ACER",
+        "common_name": "NORWAY MAPLE",
+        "species_name": "PLATANOIDES",
+        "assigned": "N",
+        "root_barrier": "N",
+        "plant_area": "12",
+        "curb": "Y",
+        "std_street": "W 42ND AV",
+        "geom": {
+          "coordinates": [
+            -123.18414,
+            49.23387
+          ],
+          "type": "Point"
+        },
+        "on_street": "W 42ND AV",
+        "tree_id": "39571",
+        "civic_number": "3577",
+        "neighbourhood_name": "DUNBAR-SOUTHLANDS",
+        "height_range_id": 4,
+        "on_street_block": "3500",
+        "street_side_name": "ODD"
+      },
+      "record_timestamp": "2022-10-11T12:23:12.105Z"
+    },
+    {
+      "datasetid": "street-trees",
+      "recordid": "7ab96e1441ef5e33932ed7a722436a938d0b3b60",
+      "fields": {
+        "diameter": 7.5,
+        "genus_name": "QUERCUS",
+        "common_name": "PIN OAK",
+        "species_name": "PALUSTRIS",
+        "assigned": "N",
+        "root_barrier": "N",
+        "plant_area": "9",
+        "curb": "Y",
+        "std_street": "W 42ND AV",
+        "date_planted": "2000-03-16",
+        "geom": {
+          "coordinates": [
+            -123.18419,
+            49.23376
+          ],
+          "type": "Point"
+        },
+        "on_street": "W 42ND AV",
+        "tree_id": "39572",
+        "civic_number": "3578",
+        "neighbourhood_name": "DUNBAR-SOUTHLANDS",
+        "height_range_id": 1,
+        "on_street_block": "3500",
+        "street_side_name": "EVEN"
+      },
+      "record_timestamp": "2022-10-11T12:23:12.105Z"
+    },
+    {
+      "datasetid": "street-trees",
+      "recordid": "a0f26c12d471c5572d1d6e0c34d251eda922dbb3",
+      "fields": {
+        "diameter": 25,
+        "genus_name": "AESCULUS",
+        "common_name": "COMMON HORSECHESTNUT",
+        "species_name": "HIPPOCASTANUM",
+        "assigned": "N",
+        "root_barrier": "N",
+        "plant_area": "7",
+        "curb": "Y",
+        "std_street": "E 43RD AV",
+        "geom": {
+          "coordinates": [
+            -123.104972,
+            49.230922
+          ],
+          "type": "Point"
+        },
+        "on_street": "E 43RD AV",
+        "tree_id": "39577",
+        "civic_number": "34",
+        "neighbourhood_name": "SUNSET",
+        "height_range_id": 4,
+        "on_street_block": "0",
+        "street_side_name": "EVEN"
+      },
+      "record_timestamp": "2022-10-11T12:23:12.105Z"
+    }
+  ],
+  "facet_groups": [
+    {
+      "name": "genus_name",
+      "facets": [
+        {
+          "name": "ACER",
+          "count": 37268,
+          "state": "displayed",
+          "path": "ACER"
+        },
+        {
+          "name": "PRUNUS",
+          "count": 29740,
+          "state": "displayed",
+          "path": "PRUNUS"
+        },
+        {
+          "name": "FRAXINUS",
+          "count": 7570,
+          "state": "displayed",
+          "path": "FRAXINUS"
+        },
+        {
+          "name": "TILIA",
+          "count": 6721,
+          "state": "displayed",
+          "path": "TILIA"
+        },
+        {
+          "name": "QUERCUS",
+          "count": 6606,
+          "state": "displayed",
+          "path": "QUERCUS"
+        },
+        {
+          "name": "CARPINUS",
+          "count": 6082,
+          "state": "displayed",
+          "path": "CARPINUS"
+        },
+        {
+          "name": "FAGUS",
+          "count": 5244,
+          "state": "displayed",
+          "path": "FAGUS"
+        },
+        {
+          "name": "MALUS",
+          "count": 4093,
+          "state": "displayed",
+          "path": "MALUS"
+        },
+        {
+          "name": "MAGNOLIA",
+          "count": 4027,
+          "state": "displayed",
+          "path": "MAGNOLIA"
+        },
+        {
+          "name": "CRATAEGUS",
+          "count": 3865,
+          "state": "displayed",
+          "path": "CRATAEGUS"
+        },
+        {
+          "name": "ULMUS",
+          "count": 2979,
+          "state": "displayed",
+          "path": "ULMUS"
+        },
+        {
+          "name": "AESCULUS",
+          "count": 2572,
+          "state": "displayed",
+          "path": "AESCULUS"
+        },
+        {
+          "name": "CORNUS",
+          "count": 2425,
+          "state": "displayed",
+          "path": "CORNUS"
+        },
+        {
+          "name": "PARROTIA",
+          "count": 2327,
+          "state": "displayed",
+          "path": "PARROTIA"
+        },
+        {
+          "name": "CERCIDIPHYLLUM",
+          "count": 2190,
+          "state": "displayed",
+          "path": "CERCIDIPHYLLUM"
+        },
+        {
+          "name": "PYRUS",
+          "count": 2136,
+          "state": "displayed",
+          "path": "PYRUS"
+        },
+        {
+          "name": "PLATANUS",
+          "count": 1853,
+          "state": "displayed",
+          "path": "PLATANUS"
+        },
+        {
+          "name": "GLEDITSIA",
+          "count": 1724,
+          "state": "displayed",
+          "path": "GLEDITSIA"
+        },
+        {
+          "name": "STYRAX",
+          "count": 1719,
+          "state": "displayed",
+          "path": "STYRAX"
+        },
+        {
+          "name": "LIQUIDAMBAR",
+          "count": 1677,
+          "state": "displayed",
+          "path": "LIQUIDAMBAR"
+        },
+        {
+          "name": "SORBUS",
+          "count": 1642,
+          "state": "displayed",
+          "path": "SORBUS"
+        },
+        {
+          "name": "BETULA",
+          "count": 1540,
+          "state": "displayed",
+          "path": "BETULA"
+        },
+        {
+          "name": "THUJA",
+          "count": 1471,
+          "state": "displayed",
+          "path": "THUJA"
+        },
+        {
+          "name": "SYRINGA",
+          "count": 1322,
+          "state": "displayed",
+          "path": "SYRINGA"
+        },
+        {
+          "name": "LIRIODENDRON",
+          "count": 980,
+          "state": "displayed",
+          "path": "LIRIODENDRON"
+        },
+        {
+          "name": "NYSSA",
+          "count": 883,
+          "state": "displayed",
+          "path": "NYSSA"
+        },
+        {
+          "name": "PINUS",
+          "count": 832,
+          "state": "displayed",
+          "path": "PINUS"
+        },
+        {
+          "name": "CHAMAECYPARIS",
+          "count": 830,
+          "state": "displayed",
+          "path": "CHAMAECYPARIS"
+        },
+        {
+          "name": "PSEUDOTSUGA",
+          "count": 758,
+          "state": "displayed",
+          "path": "PSEUDOTSUGA"
+        },
+        {
+          "name": "PICEA",
+          "count": 631,
+          "state": "displayed",
+          "path": "PICEA"
+        },
+        {
+          "name": "ROBINIA",
+          "count": 595,
+          "state": "displayed",
+          "path": "ROBINIA"
+        },
+        {
+          "name": "CATALPA",
+          "count": 559,
+          "state": "displayed",
+          "path": "CATALPA"
+        },
+        {
+          "name": "CERCIS",
+          "count": 457,
+          "state": "displayed",
+          "path": "CERCIS"
+        },
+        {
+          "name": "ZELKOVA",
+          "count": 428,
+          "state": "displayed",
+          "path": "ZELKOVA"
+        },
+        {
+          "name": "METASEQUOIA",
+          "count": 404,
+          "state": "displayed",
+          "path": "METASEQUOIA"
+        },
+        {
+          "name": "CEDRUS",
+          "count": 350,
+          "state": "displayed",
+          "path": "CEDRUS"
+        },
+        {
+          "name": "AMELANCHIER",
+          "count": 309,
+          "state": "displayed",
+          "path": "AMELANCHIER"
+        },
+        {
+          "name": "STEWARTIA",
+          "count": 293,
+          "state": "displayed",
+          "path": "STEWARTIA"
+        },
+        {
+          "name": "GINKGO",
+          "count": 288,
+          "state": "displayed",
+          "path": "GINKGO"
+        },
+        {
+          "name": "CELTIS",
+          "count": 270,
+          "state": "displayed",
+          "path": "CELTIS"
+        },
+        {
+          "name": "POPULUS",
+          "count": 228,
+          "state": "displayed",
+          "path": "POPULUS"
+        },
+        {
+          "name": "ILEX",
+          "count": 216,
+          "state": "displayed",
+          "path": "ILEX"
+        },
+        {
+          "name": "ABIES",
+          "count": 204,
+          "state": "displayed",
+          "path": "ABIES"
+        },
+        {
+          "name": "DAVIDIA",
+          "count": 192,
+          "state": "displayed",
+          "path": "DAVIDIA"
+        },
+        {
+          "name": "HIBISCUS",
+          "count": 185,
+          "state": "displayed",
+          "path": "HIBISCUS"
+        },
+        {
+          "name": "JUGLANS",
+          "count": 174,
+          "state": "displayed",
+          "path": "JUGLANS"
+        },
+        {
+          "name": "SEQUOIADENDRON",
+          "count": 163,
+          "state": "displayed",
+          "path": "SEQUOIADENDRON"
+        },
+        {
+          "name": "TSUGA",
+          "count": 143,
+          "state": "displayed",
+          "path": "TSUGA"
+        },
+        {
+          "name": "CORYLUS",
+          "count": 130,
+          "state": "displayed",
+          "path": "CORYLUS"
+        },
+        {
+          "name": "SALIX",
+          "count": 105,
+          "state": "displayed",
+          "path": "SALIX"
+        },
+        {
+          "name": "LABURNUM",
+          "count": 100,
+          "state": "displayed",
+          "path": "LABURNUM"
+        },
+        {
+          "name": "KOELREUTERIA",
+          "count": 84,
+          "state": "displayed",
+          "path": "KOELREUTERIA"
+        },
+        {
+          "name": "ALNUS",
+          "count": 75,
+          "state": "displayed",
+          "path": "ALNUS"
+        },
+        {
+          "name": "JUNIPERUS",
+          "count": 70,
+          "state": "displayed",
+          "path": "JUNIPERUS"
+        },
+        {
+          "name": "CASTANEA",
+          "count": 69,
+          "state": "displayed",
+          "path": "CASTANEA"
+        },
+        {
+          "name": "GYMNOCLADUS",
+          "count": 66,
+          "state": "displayed",
+          "path": "GYMNOCLADUS"
+        },
+        {
+          "name": "TAXUS",
+          "count": 49,
+          "state": "displayed",
+          "path": "TAXUS"
+        },
+        {
+          "name": "CLADRASTIS",
+          "count": 33,
+          "state": "displayed",
+          "path": "CLADRASTIS"
+        },
+        {
+          "name": "PTEROCARYA",
+          "count": 33,
+          "state": "displayed",
+          "path": "PTEROCARYA"
+        },
+        {
+          "name": "OSTRYA",
+          "count": 30,
+          "state": "displayed",
+          "path": "OSTRYA"
+        },
+        {
+          "name": "CALOCEDRUS",
+          "count": 29,
+          "state": "displayed",
+          "path": "CALOCEDRUS"
+        },
+        {
+          "name": "RHUS",
+          "count": 26,
+          "state": "displayed",
+          "path": "RHUS"
+        },
+        {
+          "name": "MESPILUS",
+          "count": 20,
+          "state": "displayed",
+          "path": "MESPILUS"
+        },
+        {
+          "name": "EUCOMMIA",
+          "count": 18,
+          "state": "displayed",
+          "path": "EUCOMMIA"
+        },
+        {
+          "name": "RHAMNUS",
+          "count": 18,
+          "state": "displayed",
+          "path": "RHAMNUS"
+        },
+        {
+          "name": "CRYPTOMERIA",
+          "count": 17,
+          "state": "displayed",
+          "path": "CRYPTOMERIA"
+        },
+        {
+          "name": "FICUS",
+          "count": 17,
+          "state": "displayed",
+          "path": "FICUS"
+        },
+        {
+          "name": "NOTHOFAGUS",
+          "count": 17,
+          "state": "displayed",
+          "path": "NOTHOFAGUS"
+        },
+        {
+          "name": "SOPHORA",
+          "count": 17,
+          "state": "displayed",
+          "path": "SOPHORA"
+        },
+        {
+          "name": "TAXODIUM",
+          "count": 17,
+          "state": "displayed",
+          "path": "TAXODIUM"
+        },
+        {
+          "name": "ARAUCARIA",
+          "count": 15,
+          "state": "displayed",
+          "path": "ARAUCARIA"
+        },
+        {
+          "name": "TRACHYCARPUS",
+          "count": 15,
+          "state": "displayed",
+          "path": "TRACHYCARPUS"
+        },
+        {
+          "name": "EUONYMUS",
+          "count": 13,
+          "state": "displayed",
+          "path": "EUONYMUS"
+        },
+        {
+          "name": "MORUS",
+          "count": 13,
+          "state": "displayed",
+          "path": "MORUS"
+        },
+        {
+          "name": "PAULOWNIA",
+          "count": 13,
+          "state": "displayed",
+          "path": "PAULOWNIA"
+        },
+        {
+          "name": "LARIX",
+          "count": 12,
+          "state": "displayed",
+          "path": "LARIX"
+        },
+        {
+          "name": "ARBUTUS",
+          "count": 9,
+          "state": "displayed",
+          "path": "ARBUTUS"
+        },
+        {
+          "name": "SEQUOIA",
+          "count": 8,
+          "state": "displayed",
+          "path": "SEQUOIA"
+        },
+        {
+          "name": "ALBIZIA",
+          "count": 6,
+          "state": "displayed",
+          "path": "ALBIZIA"
+        },
+        {
+          "name": "LAURUS",
+          "count": 6,
+          "state": "displayed",
+          "path": "LAURUS"
+        },
+        {
+          "name": "AILANTHUS",
+          "count": 5,
+          "state": "displayed",
+          "path": "AILANTHUS"
+        },
+        {
+          "name": "CHITALPA",
+          "count": 5,
+          "state": "displayed",
+          "path": "CHITALPA"
+        },
+        {
+          "name": "EUCALYPTUS",
+          "count": 5,
+          "state": "displayed",
+          "path": "EUCALYPTUS"
+        },
+        {
+          "name": "PHELLODENDON",
+          "count": 5,
+          "state": "displayed",
+          "path": "PHELLODENDON"
+        },
+        {
+          "name": "VIBURNUM",
+          "count": 5,
+          "state": "displayed",
+          "path": "VIBURNUM"
+        },
+        {
+          "name": "ARALIA",
+          "count": 3,
+          "state": "displayed",
+          "path": "ARALIA"
+        },
+        {
+          "name": "CUPRESSOCYPARIS   X",
+          "count": 3,
+          "state": "displayed",
+          "path": "CUPRESSOCYPARIS   X"
+        },
+        {
+          "name": "HIPPOPHAE",
+          "count": 3,
+          "state": "displayed",
+          "path": "HIPPOPHAE"
+        },
+        {
+          "name": "MICHELIA",
+          "count": 3,
+          "state": "displayed",
+          "path": "MICHELIA"
+        },
+        {
+          "name": "SCIADOPITYS",
+          "count": 3,
+          "state": "displayed",
+          "path": "SCIADOPITYS"
+        },
+        {
+          "name": "CLERODENDRON",
+          "count": 2,
+          "state": "displayed",
+          "path": "CLERODENDRON"
+        },
+        {
+          "name": "OXYDENDRUM",
+          "count": 2,
+          "state": "displayed",
+          "path": "OXYDENDRUM"
+        },
+        {
+          "name": "PTELEA",
+          "count": 2,
+          "state": "displayed",
+          "path": "PTELEA"
+        },
+        {
+          "name": "PTEROSTYRAX",
+          "count": 2,
+          "state": "displayed",
+          "path": "PTEROSTYRAX"
+        },
+        {
+          "name": "CARYA",
+          "count": 1,
+          "state": "displayed",
+          "path": "CARYA"
+        },
+        {
+          "name": "CUNNINGHAMIA",
+          "count": 1,
+          "state": "displayed",
+          "path": "CUNNINGHAMIA"
+        },
+        {
+          "name": "HALESIA",
+          "count": 1,
+          "state": "displayed",
+          "path": "HALESIA"
+        },
+        {
+          "name": "KALOPANAX",
+          "count": 1,
+          "state": "displayed",
+          "path": "KALOPANAX"
+        },
+        {
+          "name": "STUMP",
+          "count": 1,
+          "state": "displayed",
+          "path": "STUMP"
+        }
+      ]
+    },
+    {
+      "name": "species_name",
+      "facets": [
+        {
+          "name": "SERRULATA",
+          "count": 13157,
+          "state": "displayed",
+          "path": "SERRULATA"
+        },
+        {
+          "name": "PLATANOIDES",
+          "count": 12194,
+          "state": "displayed",
+          "path": "PLATANOIDES"
+        },
+        {
+          "name": "CERASIFERA",
+          "count": 11608,
+          "state": "displayed",
+          "path": "CERASIFERA"
+        },
+        {
+          "name": "RUBRUM",
+          "count": 8847,
+          "state": "displayed",
+          "path": "RUBRUM"
+        },
+        {
+          "name": "SYLVATICA",
+          "count": 5993,
+          "state": "displayed",
+          "path": "SYLVATICA"
+        },
+        {
+          "name": "AMERICANA",
+          "count": 5709,
+          "state": "displayed",
+          "path": "AMERICANA"
+        },
+        {
+          "name": "BETULUS",
+          "count": 5348,
+          "state": "displayed",
+          "path": "BETULUS"
+        },
+        {
+          "name": "EUCHLORA   X",
+          "count": 4292,
+          "state": "displayed",
+          "path": "EUCHLORA   X"
+        },
+        {
+          "name": "FREEMANII   X",
+          "count": 4234,
+          "state": "displayed",
+          "path": "FREEMANII   X"
+        },
+        {
+          "name": "CAMPESTRE",
+          "count": 3556,
+          "state": "displayed",
+          "path": "CAMPESTRE"
+        },
+        {
+          "name": "KOBUS",
+          "count": 2731,
+          "state": "displayed",
+          "path": "KOBUS"
+        },
+        {
+          "name": "X YEDOENSIS",
+          "count": 2499,
+          "state": "displayed",
+          "path": "X YEDOENSIS"
+        },
+        {
+          "name": "PERSICA",
+          "count": 2327,
+          "state": "displayed",
+          "path": "PERSICA"
+        },
+        {
+          "name": "HIPPOCASTANUM",
+          "count": 2279,
+          "state": "displayed",
+          "path": "HIPPOCASTANUM"
+        },
+        {
+          "name": "JAPONICUM",
+          "count": 2204,
+          "state": "displayed",
+          "path": "JAPONICUM"
+        },
+        {
+          "name": "CALLERYANA",
+          "count": 2093,
+          "state": "displayed",
+          "path": "CALLERYANA"
+        },
+        {
+          "name": "PSEUDOPLATANUS",
+          "count": 2088,
+          "state": "displayed",
+          "path": "PSEUDOPLATANUS"
+        },
+        {
+          "name": "SPECIES",
+          "count": 1997,
+          "state": "displayed",
+          "path": "SPECIES"
+        },
+        {
+          "name": "TRUNCATUM",
+          "count": 1970,
+          "state": "displayed",
+          "path": "TRUNCATUM"
+        },
+        {
+          "name": "PALUSTRIS",
+          "count": 1957,
+          "state": "displayed",
+          "path": "PALUSTRIS"
+        },
+        {
+          "name": "ACERIFOLIA   X",
+          "count": 1847,
+          "state": "displayed",
+          "path": "ACERIFOLIA   X"
+        },
+        {
+          "name": "JAPONICA",
+          "count": 1835,
+          "state": "displayed",
+          "path": "JAPONICA"
+        },
+        {
+          "name": "PENNSYLVANICA",
+          "count": 1728,
+          "state": "displayed",
+          "path": "PENNSYLVANICA"
+        },
+        {
+          "name": "TRIACANTHOS",
+          "count": 1724,
+          "state": "displayed",
+          "path": "TRIACANTHOS"
+        },
+        {
+          "name": "XX",
+          "count": 1699,
+          "state": "displayed",
+          "path": "XX"
+        },
+        {
+          "name": "FLORIBUNDA",
+          "count": 1656,
+          "state": "displayed",
+          "path": "FLORIBUNDA"
+        },
+        {
+          "name": "STYRACIFLUA",
+          "count": 1656,
+          "state": "displayed",
+          "path": "STYRACIFLUA"
+        },
+        {
+          "name": "ZUMI",
+          "count": 1570,
+          "state": "displayed",
+          "path": "ZUMI"
+        },
+        {
+          "name": "ROBUR",
+          "count": 1539,
+          "state": "displayed",
+          "path": "ROBUR"
+        },
+        {
+          "name": "RUBRA",
+          "count": 1458,
+          "state": "displayed",
+          "path": "RUBRA"
+        },
+        {
+          "name": "ORNUS",
+          "count": 1369,
+          "state": "displayed",
+          "path": "ORNUS"
+        },
+        {
+          "name": "LAVALLEI  X",
+          "count": 1341,
+          "state": "displayed",
+          "path": "LAVALLEI  X"
+        },
+        {
+          "name": "RETICULATA",
+          "count": 1302,
+          "state": "displayed",
+          "path": "RETICULATA"
+        },
+        {
+          "name": "PLICATA",
+          "count": 1276,
+          "state": "displayed",
+          "path": "PLICATA"
+        },
+        {
+          "name": "PENDULA",
+          "count": 1260,
+          "state": "displayed",
+          "path": "PENDULA"
+        },
+        {
+          "name": "CORDATA",
+          "count": 1169,
+          "state": "displayed",
+          "path": "CORDATA"
+        },
+        {
+          "name": "PALMATUM",
+          "count": 1136,
+          "state": "displayed",
+          "path": "PALMATUM"
+        },
+        {
+          "name": "EXCELSIOR",
+          "count": 1117,
+          "state": "displayed",
+          "path": "EXCELSIOR"
+        },
+        {
+          "name": "KOUSA",
+          "count": 1068,
+          "state": "displayed",
+          "path": "KOUSA"
+        },
+        {
+          "name": "OXYCARPA",
+          "count": 895,
+          "state": "displayed",
+          "path": "OXYCARPA"
+        },
+        {
+          "name": "TULIPIFERA",
+          "count": 805,
+          "state": "displayed",
+          "path": "TULIPIFERA"
+        },
+        {
+          "name": "MENZIESII",
+          "count": 766,
+          "state": "displayed",
+          "path": "MENZIESII"
+        },
+        {
+          "name": "OXYACANTHA",
+          "count": 757,
+          "state": "displayed",
+          "path": "OXYACANTHA"
+        },
+        {
+          "name": "SARGENTII",
+          "count": 685,
+          "state": "displayed",
+          "path": "SARGENTII"
+        },
+        {
+          "name": "MORDENSIS",
+          "count": 656,
+          "state": "displayed",
+          "path": "MORDENSIS"
+        },
+        {
+          "name": "AVIUM",
+          "count": 636,
+          "state": "displayed",
+          "path": "AVIUM"
+        },
+        {
+          "name": "AUCUPARIA",
+          "count": 620,
+          "state": "displayed",
+          "path": "AUCUPARIA"
+        },
+        {
+          "name": "GRISEUM",
+          "count": 609,
+          "state": "displayed",
+          "path": "GRISEUM"
+        },
+        {
+          "name": "PSEUDOACACIA",
+          "count": 595,
+          "state": "displayed",
+          "path": "PSEUDOACACIA"
+        },
+        {
+          "name": "ARIA",
+          "count": 592,
+          "state": "displayed",
+          "path": "ARIA"
+        },
+        {
+          "name": "CAROLINIANA",
+          "count": 536,
+          "state": "displayed",
+          "path": "CAROLINIANA"
+        },
+        {
+          "name": "ACUTISSIMA",
+          "count": 516,
+          "state": "displayed",
+          "path": "ACUTISSIMA"
+        },
+        {
+          "name": "CANADENSIS",
+          "count": 499,
+          "state": "displayed",
+          "path": "CANADENSIS"
+        },
+        {
+          "name": "NIGRA",
+          "count": 489,
+          "state": "displayed",
+          "path": "NIGRA"
+        },
+        {
+          "name": "LAWSONIANA",
+          "count": 488,
+          "state": "displayed",
+          "path": "LAWSONIANA"
+        },
+        {
+          "name": "PUMILA",
+          "count": 479,
+          "state": "displayed",
+          "path": "PUMILA"
+        },
+        {
+          "name": "NUTTALLII",
+          "count": 469,
+          "state": "displayed",
+          "path": "NUTTALLII"
+        },
+        {
+          "name": "PHAENOPYRUM",
+          "count": 432,
+          "state": "displayed",
+          "path": "PHAENOPYRUM"
+        },
+        {
+          "name": "SERRATA",
+          "count": 428,
+          "state": "displayed",
+          "path": "SERRATA"
+        },
+        {
+          "name": "VIRGINIANA",
+          "count": 424,
+          "state": "displayed",
+          "path": "VIRGINIANA"
+        },
+        {
+          "name": "MACROPHYLLUM",
+          "count": 423,
+          "state": "displayed",
+          "path": "MACROPHYLLUM"
+        },
+        {
+          "name": "OCCIDENTALIS",
+          "count": 418,
+          "state": "displayed",
+          "path": "OCCIDENTALIS"
+        },
+        {
+          "name": "CAPPADOCICUM",
+          "count": 407,
+          "state": "displayed",
+          "path": "CAPPADOCICUM"
+        },
+        {
+          "name": "GLYPTOSTROBOIDES",
+          "count": 404,
+          "state": "displayed",
+          "path": "GLYPTOSTROBOIDES"
+        },
+        {
+          "name": "COCCINEA",
+          "count": 387,
+          "state": "displayed",
+          "path": "COCCINEA"
+        },
+        {
+          "name": "BIGNONIOIDES",
+          "count": 380,
+          "state": "displayed",
+          "path": "BIGNONIOIDES"
+        },
+        {
+          "name": "SACCHARINUM",
+          "count": 352,
+          "state": "displayed",
+          "path": "SACCHARINUM"
+        },
+        {
+          "name": "PHELLOS",
+          "count": 326,
+          "state": "displayed",
+          "path": "PHELLOS"
+        },
+        {
+          "name": "CRUS-GALLI",
+          "count": 317,
+          "state": "displayed",
+          "path": "CRUS-GALLI"
+        },
+        {
+          "name": "BILOBA",
+          "count": 288,
+          "state": "displayed",
+          "path": "BILOBA"
+        },
+        {
+          "name": "GINNALA",
+          "count": 286,
+          "state": "displayed",
+          "path": "GINNALA"
+        },
+        {
+          "name": "GLABRA",
+          "count": 269,
+          "state": "displayed",
+          "path": "GLABRA"
+        },
+        {
+          "name": "DEODARA",
+          "count": 259,
+          "state": "displayed",
+          "path": "DEODARA"
+        },
+        {
+          "name": "PSEUDOCAMELLIA",
+          "count": 255,
+          "state": "displayed",
+          "path": "PSEUDOCAMELLIA"
+        },
+        {
+          "name": "ALNIFOLIA",
+          "count": 252,
+          "state": "displayed",
+          "path": "ALNIFOLIA"
+        },
+        {
+          "name": "CARNEA   X",
+          "count": 246,
+          "state": "displayed",
+          "path": "CARNEA   X"
+        },
+        {
+          "name": "SYLVESTRIS",
+          "count": 246,
+          "state": "displayed",
+          "path": "SYLVESTRIS"
+        },
+        {
+          "name": "SUBHIRTELLA",
+          "count": 238,
+          "state": "displayed",
+          "path": "SUBHIRTELLA"
+        },
+        {
+          "name": "GRANDIFLORA X",
+          "count": 233,
+          "state": "displayed",
+          "path": "GRANDIFLORA X"
+        },
+        {
+          "name": "DOUGLASII",
+          "count": 223,
+          "state": "displayed",
+          "path": "DOUGLASII"
+        },
+        {
+          "name": "INVOLUCRATA",
+          "count": 192,
+          "state": "displayed",
+          "path": "INVOLUCRATA"
+        },
+        {
+          "name": "SYRIACUS",
+          "count": 185,
+          "state": "displayed",
+          "path": "SYRIACUS"
+        },
+        {
+          "name": "AQUIFOLIUM",
+          "count": 181,
+          "state": "displayed",
+          "path": "AQUIFOLIUM"
+        },
+        {
+          "name": "NEGUNDO",
+          "count": 177,
+          "state": "displayed",
+          "path": "NEGUNDO"
+        },
+        {
+          "name": "CHINENSE",
+          "count": 175,
+          "state": "displayed",
+          "path": "CHINENSE"
+        },
+        {
+          "name": "GIGANTEUM",
+          "count": 163,
+          "state": "displayed",
+          "path": "GIGANTEUM"
+        },
+        {
+          "name": "FLORIDA",
+          "count": 162,
+          "state": "displayed",
+          "path": "FLORIDA"
+        },
+        {
+          "name": "ABIES",
+          "count": 161,
+          "state": "displayed",
+          "path": "ABIES"
+        },
+        {
+          "name": "NOOTKATENSIS",
+          "count": 159,
+          "state": "displayed",
+          "path": "NOOTKATENSIS"
+        },
+        {
+          "name": "VELUTINA",
+          "count": 151,
+          "state": "displayed",
+          "path": "VELUTINA"
+        },
+        {
+          "name": "PAPYRIFERA",
+          "count": 140,
+          "state": "displayed",
+          "path": "PAPYRIFERA"
+        },
+        {
+          "name": "EUROPAEA   X",
+          "count": 131,
+          "state": "displayed",
+          "path": "EUROPAEA   X"
+        },
+        {
+          "name": "HETEROPHYLLA",
+          "count": 125,
+          "state": "displayed",
+          "path": "HETEROPHYLLA"
+        },
+        {
+          "name": "CONTORTA",
+          "count": 117,
+          "state": "displayed",
+          "path": "CONTORTA"
+        },
+        {
+          "name": "PUNGENS",
+          "count": 115,
+          "state": "displayed",
+          "path": "PUNGENS"
+        },
+        {
+          "name": "SACCHARUM",
+          "count": 109,
+          "state": "displayed",
+          "path": "SACCHARUM"
+        },
+        {
+          "name": "GRANDIS",
+          "count": 107,
+          "state": "displayed",
+          "path": "GRANDIS"
+        },
+        {
+          "name": "CIRCINATUM",
+          "count": 105,
+          "state": "displayed",
+          "path": "CIRCINATUM"
+        },
+        {
+          "name": "BACCATA",
+          "count": 104,
+          "state": "displayed",
+          "path": "BACCATA"
+        },
+        {
+          "name": "KEWENSIS X",
+          "count": 101,
+          "state": "displayed",
+          "path": "KEWENSIS X"
+        }
+      ]
+    },
+    {
+      "name": "common_name",
+      "facets": [
+        {
+          "name": "KWANZAN FLOWERING CHERRY",
+          "count": 10260,
+          "state": "displayed",
+          "path": "KWANZAN FLOWERING CHERRY"
+        },
+        {
+          "name": "PISSARD PLUM",
+          "count": 8008,
+          "state": "displayed",
+          "path": "PISSARD PLUM"
+        },
+        {
+          "name": "NORWAY MAPLE",
+          "count": 5686,
+          "state": "displayed",
+          "path": "NORWAY MAPLE"
+        },
+        {
+          "name": "CRIMEAN LINDEN",
+          "count": 4292,
+          "state": "displayed",
+          "path": "CRIMEAN LINDEN"
+        },
+        {
+          "name": "PYRAMIDAL EUROPEAN HORNBEAM",
+          "count": 3383,
+          "state": "displayed",
+          "path": "PYRAMIDAL EUROPEAN HORNBEAM"
+        },
+        {
+          "name": "NIGHT PURPLE LEAF PLUM",
+          "count": 3217,
+          "state": "displayed",
+          "path": "NIGHT PURPLE LEAF PLUM"
+        },
+        {
+          "name": "RED MAPLE",
+          "count": 3072,
+          "state": "displayed",
+          "path": "RED MAPLE"
+        },
+        {
+          "name": "KOBUS MAGNOLIA",
+          "count": 2728,
+          "state": "displayed",
+          "path": "KOBUS MAGNOLIA"
+        },
+        {
+          "name": "BOWHALL RED MAPLE",
+          "count": 2609,
+          "state": "displayed",
+          "path": "BOWHALL RED MAPLE"
+        },
+        {
+          "name": "AKEBONO FLOWERING CHERRY",
+          "count": 2401,
+          "state": "displayed",
+          "path": "AKEBONO FLOWERING CHERRY"
+        },
+        {
+          "name": "EUROPEAN BEECH",
+          "count": 2260,
+          "state": "displayed",
+          "path": "EUROPEAN BEECH"
+        },
+        {
+          "name": "COMMON HORSECHESTNUT",
+          "count": 2225,
+          "state": "displayed",
+          "path": "COMMON HORSECHESTNUT"
+        },
+        {
+          "name": "KATSURA TREE",
+          "count": 2150,
+          "state": "displayed",
+          "path": "KATSURA TREE"
+        },
+        {
+          "name": "HEDGE MAPLE",
+          "count": 2148,
+          "state": "displayed",
+          "path": "HEDGE MAPLE"
+        },
+        {
+          "name": "ARMSTRONG RED MAPLE",
+          "count": 1933,
+          "state": "displayed",
+          "path": "ARMSTRONG RED MAPLE"
+        },
+        {
+          "name": "AMERICAN ELM",
+          "count": 1849,
+          "state": "displayed",
+          "path": "AMERICAN ELM"
+        },
+        {
+          "name": "COLUMNAR NORWAY MAPLE",
+          "count": 1835,
+          "state": "displayed",
+          "path": "COLUMNAR NORWAY MAPLE"
+        },
+        {
+          "name": "SYCAMORE MAPLE",
+          "count": 1786,
+          "state": "displayed",
+          "path": "SYCAMORE MAPLE"
+        },
+        {
+          "name": "PACIFIC SUNSET MAPLE",
+          "count": 1672,
+          "state": "displayed",
+          "path": "PACIFIC SUNSET MAPLE"
+        },
+        {
+          "name": "PIN OAK",
+          "count": 1665,
+          "state": "displayed",
+          "path": "PIN OAK"
+        },
+        {
+          "name": "JAPANESE FLOWERING CRABAPPLE",
+          "count": 1656,
+          "state": "displayed",
+          "path": "JAPANESE FLOWERING CRABAPPLE"
+        },
+        {
+          "name": "REDBUD CRABAPPLE",
+          "count": 1570,
+          "state": "displayed",
+          "path": "REDBUD CRABAPPLE"
+        },
+        {
+          "name": "AUTUMN APPLAUSE ASH",
+          "count": 1554,
+          "state": "displayed",
+          "path": "AUTUMN APPLAUSE ASH"
+        },
+        {
+          "name": "JAPANESE SNOWBELL",
+          "count": 1472,
+          "state": "displayed",
+          "path": "JAPANESE SNOWBELL"
+        },
+        {
+          "name": "RED OAK",
+          "count": 1434,
+          "state": "displayed",
+          "path": "RED OAK"
+        },
+        {
+          "name": "EUROPEAN HORNBEAM",
+          "count": 1390,
+          "state": "displayed",
+          "path": "EUROPEAN HORNBEAM"
+        },
+        {
+          "name": "GLOBEHEAD NORWAY MAPLE",
+          "count": 1376,
+          "state": "displayed",
+          "path": "GLOBEHEAD NORWAY MAPLE"
+        },
+        {
+          "name": "FLOWERING ASH",
+          "count": 1369,
+          "state": "displayed",
+          "path": "FLOWERING ASH"
+        },
+        {
+          "name": "LAVALLEI HYBRID HAWTHORN",
+          "count": 1341,
+          "state": "displayed",
+          "path": "LAVALLEI HYBRID HAWTHORN"
+        },
+        {
+          "name": "TREE LILAC",
+          "count": 1302,
+          "state": "displayed",
+          "path": "TREE LILAC"
+        },
+        {
+          "name": "WESTERN RED CEDAR",
+          "count": 1251,
+          "state": "displayed",
+          "path": "WESTERN RED CEDAR"
+        },
+        {
+          "name": "LONDON PLANE TREE",
+          "count": 1242,
+          "state": "displayed",
+          "path": "LONDON PLANE TREE"
+        },
+        {
+          "name": "WORPLESDON SWEETGUM",
+          "count": 1174,
+          "state": "displayed",
+          "path": "WORPLESDON SWEETGUM"
+        },
+        {
+          "name": "CHANTICLEER PEAR",
+          "count": 1166,
+          "state": "displayed",
+          "path": "CHANTICLEER PEAR"
+        },
+        {
+          "name": "VANESSA PERSIAN IRONWOOD",
+          "count": 1133,
+          "state": "displayed",
+          "path": "VANESSA PERSIAN IRONWOOD"
+        },
+        {
+          "name": "EUROPEAN WHITE BIRCH",
+          "count": 1112,
+          "state": "displayed",
+          "path": "EUROPEAN WHITE BIRCH"
+        },
+        {
+          "name": "DAWYCK'S BEECH",
+          "count": 1070,
+          "state": "displayed",
+          "path": "DAWYCK'S BEECH"
+        },
+        {
+          "name": "ENGLISH OAK",
+          "count": 1045,
+          "state": "displayed",
+          "path": "ENGLISH OAK"
+        },
+        {
+          "name": "BASSWOOD",
+          "count": 996,
+          "state": "displayed",
+          "path": "BASSWOOD"
+        },
+        {
+          "name": "AUTUMN BLAZE RED MAPLE",
+          "count": 991,
+          "state": "displayed",
+          "path": "AUTUMN BLAZE RED MAPLE"
+        },
+        {
+          "name": "QUEEN ELIZABETH MAPLE",
+          "count": 977,
+          "state": "displayed",
+          "path": "QUEEN ELIZABETH MAPLE"
+        },
+        {
+          "name": "PERSIAN IRONWOOD",
+          "count": 945,
+          "state": "displayed",
+          "path": "PERSIAN IRONWOOD"
+        },
+        {
+          "name": "LITTLE-LEAF LINDEN",
+          "count": 923,
+          "state": "displayed",
+          "path": "LITTLE-LEAF LINDEN"
+        },
+        {
+          "name": "EUROPEAN ASH",
+          "count": 837,
+          "state": "displayed",
+          "path": "EUROPEAN ASH"
+        },
+        {
+          "name": "RED SUNSET RED MAPLE",
+          "count": 809,
+          "state": "displayed",
+          "path": "RED SUNSET RED MAPLE"
+        },
+        {
+          "name": "GOLDEN DAWYCK BEECH",
+          "count": 804,
+          "state": "displayed",
+          "path": "GOLDEN DAWYCK BEECH"
+        },
+        {
+          "name": "AUTUMN FLAME RED MAPLE",
+          "count": 791,
+          "state": "displayed",
+          "path": "AUTUMN FLAME RED MAPLE"
+        },
+        {
+          "name": "FREEMAN'S S.S. MAPLE",
+          "count": 776,
+          "state": "displayed",
+          "path": "FREEMAN'S S.S. MAPLE"
+        },
+        {
+          "name": "UKON JAPANESE CHERRY",
+          "count": 766,
+          "state": "displayed",
+          "path": "UKON JAPANESE CHERRY"
+        },
+        {
+          "name": "DOUGLAS FIR",
+          "count": 758,
+          "state": "displayed",
+          "path": "DOUGLAS FIR"
+        },
+        {
+          "name": "THORNLESS HONEYLOCUST",
+          "count": 753,
+          "state": "displayed",
+          "path": "THORNLESS HONEYLOCUST"
+        },
+        {
+          "name": "EMERALD QUEEN NORWAY MAPLE",
+          "count": 732,
+          "state": "displayed",
+          "path": "EMERALD QUEEN NORWAY MAPLE"
+        },
+        {
+          "name": "OCTOBER GLORY RED MAPLE",
+          "count": 722,
+          "state": "displayed",
+          "path": "OCTOBER GLORY RED MAPLE"
+        },
+        {
+          "name": "ENGLISH HAWTHORN",
+          "count": 652,
+          "state": "displayed",
+          "path": "ENGLISH HAWTHORN"
+        },
+        {
+          "name": "PRINCETON GOLD MAPLE",
+          "count": 641,
+          "state": "displayed",
+          "path": "PRINCETON GOLD MAPLE"
+        },
+        {
+          "name": "PATMORE ASH",
+          "count": 640,
+          "state": "displayed",
+          "path": "PATMORE ASH"
+        },
+        {
+          "name": "JAPANESE FLOWERING CHERRY",
+          "count": 635,
+          "state": "displayed",
+          "path": "JAPANESE FLOWERING CHERRY"
+        },
+        {
+          "name": "PAPERBARK MAPLE",
+          "count": 609,
+          "state": "displayed",
+          "path": "PAPERBARK MAPLE"
+        },
+        {
+          "name": "BLOODGOOD PLANE TREE",
+          "count": 605,
+          "state": "displayed",
+          "path": "BLOODGOOD PLANE TREE"
+        },
+        {
+          "name": "TULIPTREE",
+          "count": 598,
+          "state": "displayed",
+          "path": "TULIPTREE"
+        },
+        {
+          "name": "BLACK TUPELO",
+          "count": 589,
+          "state": "displayed",
+          "path": "BLACK TUPELO"
+        },
+        {
+          "name": "ARISTOCRAT PEAR",
+          "count": 584,
+          "state": "displayed",
+          "path": "ARISTOCRAT PEAR"
+        },
+        {
+          "name": "RAYWOOD ASH",
+          "count": 583,
+          "state": "displayed",
+          "path": "RAYWOOD ASH"
+        },
+        {
+          "name": "MAZZARD CHERRY",
+          "count": 563,
+          "state": "displayed",
+          "path": "MAZZARD CHERRY"
+        },
+        {
+          "name": "JAPANESE DOGWOOD",
+          "count": 538,
+          "state": "displayed",
+          "path": "JAPANESE DOGWOOD"
+        },
+        {
+          "name": "MORGAN RED MAPLE",
+          "count": 534,
+          "state": "displayed",
+          "path": "MORGAN RED MAPLE"
+        },
+        {
+          "name": "SAWTOOTH OAK",
+          "count": 516,
+          "state": "displayed",
+          "path": "SAWTOOTH OAK"
+        },
+        {
+          "name": "EDDIES WHITE WONDER DOGWOOD",
+          "count": 515,
+          "state": "displayed",
+          "path": "EDDIES WHITE WONDER DOGWOOD"
+        },
+        {
+          "name": "PINK PERFECTION CHERRY",
+          "count": 513,
+          "state": "displayed",
+          "path": "PINK PERFECTION CHERRY"
+        },
+        {
+          "name": "MAGNOLIA 'GALAXY'",
+          "count": 494,
+          "state": "displayed",
+          "path": "MAGNOLIA 'GALAXY'"
+        },
+        {
+          "name": "AMERICAN HORNBEAM",
+          "count": 489,
+          "state": "displayed",
+          "path": "AMERICAN HORNBEAM"
+        },
+        {
+          "name": "BRANDON ELM",
+          "count": 489,
+          "state": "displayed",
+          "path": "BRANDON ELM"
+        },
+        {
+          "name": "LAWSON CYPRESS/PORT ORFORD CED",
+          "count": 485,
+          "state": "displayed",
+          "path": "LAWSON CYPRESS/PORT ORFORD CED"
+        },
+        {
+          "name": "RANCHO SARGENT CHERRY",
+          "count": 482,
+          "state": "displayed",
+          "path": "RANCHO SARGENT CHERRY"
+        },
+        {
+          "name": "AMERICAN SWEETGUM",
+          "count": 481,
+          "state": "displayed",
+          "path": "AMERICAN SWEETGUM"
+        },
+        {
+          "name": "PACIFIC DOGWOOD",
+          "count": 457,
+          "state": "displayed",
+          "path": "PACIFIC DOGWOOD"
+        },
+        {
+          "name": "GOLDEN WHITEBEAM",
+          "count": 447,
+          "state": "displayed",
+          "path": "GOLDEN WHITEBEAM"
+        },
+        {
+          "name": "JAPANESE MAPLE",
+          "count": 437,
+          "state": "displayed",
+          "path": "JAPANESE MAPLE"
+        },
+        {
+          "name": "WASHINGTON HAWTHORN",
+          "count": 432,
+          "state": "displayed",
+          "path": "WASHINGTON HAWTHORN"
+        },
+        {
+          "name": "WHITE ASH",
+          "count": 430,
+          "state": "displayed",
+          "path": "WHITE ASH"
+        },
+        {
+          "name": "OSAKAZUKI JAPANESE MAPLE",
+          "count": 426,
+          "state": "displayed",
+          "path": "OSAKAZUKI JAPANESE MAPLE"
+        },
+        {
+          "name": "EASTERN REDBUD",
+          "count": 425,
+          "state": "displayed",
+          "path": "EASTERN REDBUD"
+        },
+        {
+          "name": "BIGLEAF MAPLE",
+          "count": 423,
+          "state": "displayed",
+          "path": "BIGLEAF MAPLE"
+        },
+        {
+          "name": "MAPLE SPECIES",
+          "count": 406,
+          "state": "displayed",
+          "path": "MAPLE SPECIES"
+        },
+        {
+          "name": "TOBA HAWTHORN",
+          "count": 401,
+          "state": "displayed",
+          "path": "TOBA HAWTHORN"
+        },
+        {
+          "name": "CARDINAL ROYAL MOUNTAIN ASH",
+          "count": 398,
+          "state": "displayed",
+          "path": "CARDINAL ROYAL MOUNTAIN ASH"
+        },
+        {
+          "name": "PYRAMIDAL ENGLISH OAK",
+          "count": 394,
+          "state": "displayed",
+          "path": "PYRAMIDAL ENGLISH OAK"
+        },
+        {
+          "name": "DAWN REDWOOD",
+          "count": 390,
+          "state": "displayed",
+          "path": "DAWN REDWOOD"
+        },
+        {
+          "name": "SCARLET OAK",
+          "count": 387,
+          "state": "displayed",
+          "path": "SCARLET OAK"
+        },
+        {
+          "name": "SHIROFUGEN CHERRY",
+          "count": 384,
+          "state": "displayed",
+          "path": "SHIROFUGEN CHERRY"
+        },
+        {
+          "name": "SCHWEDLER NORWAY MAPLE",
+          "count": 369,
+          "state": "displayed",
+          "path": "SCHWEDLER NORWAY MAPLE"
+        },
+        {
+          "name": "COMMON CATALPA",
+          "count": 364,
+          "state": "displayed",
+          "path": "COMMON CATALPA"
+        },
+        {
+          "name": "FRANZ FONTAINE HORNBEAM",
+          "count": 360,
+          "state": "displayed",
+          "path": "FRANZ FONTAINE HORNBEAM"
+        },
+        {
+          "name": "SILVER VARIEGATED NORWAY MAPLE",
+          "count": 359,
+          "state": "displayed",
+          "path": "SILVER VARIEGATED NORWAY MAPLE"
+        },
+        {
+          "name": "CRIMSON KING NORWAY MAPLE",
+          "count": 343,
+          "state": "displayed",
+          "path": "CRIMSON KING NORWAY MAPLE"
+        },
+        {
+          "name": "SUMMIT ASH",
+          "count": 341,
+          "state": "displayed",
+          "path": "SUMMIT ASH"
+        },
+        {
+          "name": "SILVER MAPLE",
+          "count": 327,
+          "state": "displayed",
+          "path": "SILVER MAPLE"
+        },
+        {
+          "name": "WILLOW OAK",
+          "count": 326,
+          "state": "displayed",
+          "path": "WILLOW OAK"
+        },
+        {
+          "name": "BLACK LOCUST",
+          "count": 324,
+          "state": "displayed",
+          "path": "BLACK LOCUST"
+        },
+        {
+          "name": "THORNLESS COCKSPUR HAWTHORN",
+          "count": 308,
+          "state": "displayed",
+          "path": "THORNLESS COCKSPUR HAWTHORN"
+        }
+      ]
+    },
+    {
+      "name": "on_street",
+      "facets": [
+        {
+          "name": "CAMBIE ST",
+          "count": 1507,
+          "state": "displayed",
+          "path": "CAMBIE ST"
+        },
+        {
+          "name": "W KING EDWARD AV",
+          "count": 1480,
+          "state": "displayed",
+          "path": "W KING EDWARD AV"
+        },
+        {
+          "name": "ONTARIO ST",
+          "count": 1135,
+          "state": "displayed",
+          "path": "ONTARIO ST"
+        },
+        {
+          "name": "W 16TH AV",
+          "count": 1122,
+          "state": "displayed",
+          "path": "W 16TH AV"
+        },
+        {
+          "name": "W 13TH AV",
+          "count": 1083,
+          "state": "displayed",
+          "path": "W 13TH AV"
+        },
+        {
+          "name": "W 15TH AV",
+          "count": 959,
+          "state": "displayed",
+          "path": "W 15TH AV"
+        },
+        {
+          "name": "W 37TH AV",
+          "count": 950,
+          "state": "displayed",
+          "path": "W 37TH AV"
+        },
+        {
+          "name": "W 14TH AV",
+          "count": 937,
+          "state": "displayed",
+          "path": "W 14TH AV"
+        },
+        {
+          "name": "NANAIMO ST",
+          "count": 875,
+          "state": "displayed",
+          "path": "NANAIMO ST"
+        },
+        {
+          "name": "W 12TH AV",
+          "count": 865,
+          "state": "displayed",
+          "path": "W 12TH AV"
+        },
+        {
+          "name": "VICTORIA DRIVE",
+          "count": 861,
+          "state": "displayed",
+          "path": "VICTORIA DRIVE"
+        },
+        {
+          "name": "W 6TH AV",
+          "count": 840,
+          "state": "displayed",
+          "path": "W 6TH AV"
+        },
+        {
+          "name": "MAIN ST",
+          "count": 838,
+          "state": "displayed",
+          "path": "MAIN ST"
+        },
+        {
+          "name": "QUEBEC ST",
+          "count": 830,
+          "state": "displayed",
+          "path": "QUEBEC ST"
+        },
+        {
+          "name": "ANGUS DRIVE",
+          "count": 806,
+          "state": "displayed",
+          "path": "ANGUS DRIVE"
+        },
+        {
+          "name": "W 10TH AV",
+          "count": 793,
+          "state": "displayed",
+          "path": "W 10TH AV"
+        },
+        {
+          "name": "W 7TH AV",
+          "count": 793,
+          "state": "displayed",
+          "path": "W 7TH AV"
+        },
+        {
+          "name": "PRINCE EDWARD ST",
+          "count": 764,
+          "state": "displayed",
+          "path": "PRINCE EDWARD ST"
+        },
+        {
+          "name": "E 1ST AV",
+          "count": 747,
+          "state": "displayed",
+          "path": "E 1ST AV"
+        },
+        {
+          "name": "W 33RD AV",
+          "count": 730,
+          "state": "displayed",
+          "path": "W 33RD AV"
+        },
+        {
+          "name": "E 45TH AV",
+          "count": 729,
+          "state": "displayed",
+          "path": "E 45TH AV"
+        },
+        {
+          "name": "CYPRESS ST",
+          "count": 725,
+          "state": "displayed",
+          "path": "CYPRESS ST"
+        },
+        {
+          "name": "W 11TH AV",
+          "count": 725,
+          "state": "displayed",
+          "path": "W 11TH AV"
+        },
+        {
+          "name": "W 8TH AV",
+          "count": 708,
+          "state": "displayed",
+          "path": "W 8TH AV"
+        },
+        {
+          "name": "W 22ND AV",
+          "count": 706,
+          "state": "displayed",
+          "path": "W 22ND AV"
+        },
+        {
+          "name": "RUPERT ST",
+          "count": 704,
+          "state": "displayed",
+          "path": "RUPERT ST"
+        },
+        {
+          "name": "W 19TH AV",
+          "count": 691,
+          "state": "displayed",
+          "path": "W 19TH AV"
+        },
+        {
+          "name": "HUDSON ST",
+          "count": 690,
+          "state": "displayed",
+          "path": "HUDSON ST"
+        },
+        {
+          "name": "W 43RD AV",
+          "count": 690,
+          "state": "displayed",
+          "path": "W 43RD AV"
+        },
+        {
+          "name": "HEATHER ST",
+          "count": 671,
+          "state": "displayed",
+          "path": "HEATHER ST"
+        },
+        {
+          "name": "E 28TH AV",
+          "count": 670,
+          "state": "displayed",
+          "path": "E 28TH AV"
+        },
+        {
+          "name": "KINGSWAY",
+          "count": 664,
+          "state": "displayed",
+          "path": "KINGSWAY"
+        },
+        {
+          "name": "E PENDER ST",
+          "count": 660,
+          "state": "displayed",
+          "path": "E PENDER ST"
+        },
+        {
+          "name": "BOUNDARY ROAD",
+          "count": 658,
+          "state": "displayed",
+          "path": "BOUNDARY ROAD"
+        },
+        {
+          "name": "PRINCE ALBERT ST",
+          "count": 658,
+          "state": "displayed",
+          "path": "PRINCE ALBERT ST"
+        },
+        {
+          "name": "E 54TH AV",
+          "count": 647,
+          "state": "displayed",
+          "path": "E 54TH AV"
+        },
+        {
+          "name": "E 22ND AV",
+          "count": 645,
+          "state": "displayed",
+          "path": "E 22ND AV"
+        },
+        {
+          "name": "W 39TH AV",
+          "count": 642,
+          "state": "displayed",
+          "path": "W 39TH AV"
+        },
+        {
+          "name": "W 20TH AV",
+          "count": 640,
+          "state": "displayed",
+          "path": "W 20TH AV"
+        },
+        {
+          "name": "E 7TH AV",
+          "count": 635,
+          "state": "displayed",
+          "path": "E 7TH AV"
+        },
+        {
+          "name": "E 49TH AV",
+          "count": 629,
+          "state": "displayed",
+          "path": "E 49TH AV"
+        },
+        {
+          "name": "E 47TH AV",
+          "count": 625,
+          "state": "displayed",
+          "path": "E 47TH AV"
+        },
+        {
+          "name": "YEW ST",
+          "count": 625,
+          "state": "displayed",
+          "path": "YEW ST"
+        },
+        {
+          "name": "W 4TH AV",
+          "count": 615,
+          "state": "displayed",
+          "path": "W 4TH AV"
+        },
+        {
+          "name": "W 18TH AV",
+          "count": 614,
+          "state": "displayed",
+          "path": "W 18TH AV"
+        },
+        {
+          "name": "E 6TH AV",
+          "count": 605,
+          "state": "displayed",
+          "path": "E 6TH AV"
+        },
+        {
+          "name": "ASH ST",
+          "count": 601,
+          "state": "displayed",
+          "path": "ASH ST"
+        },
+        {
+          "name": "E 10TH AV",
+          "count": 601,
+          "state": "displayed",
+          "path": "E 10TH AV"
+        },
+        {
+          "name": "INVERNESS ST",
+          "count": 600,
+          "state": "displayed",
+          "path": "INVERNESS ST"
+        },
+        {
+          "name": "N GRANDVIEW HIGHWAY",
+          "count": 600,
+          "state": "displayed",
+          "path": "N GRANDVIEW HIGHWAY"
+        },
+        {
+          "name": "WINDSOR ST",
+          "count": 597,
+          "state": "displayed",
+          "path": "WINDSOR ST"
+        },
+        {
+          "name": "W 45TH AV",
+          "count": 595,
+          "state": "displayed",
+          "path": "W 45TH AV"
+        },
+        {
+          "name": "W 23RD AV",
+          "count": 594,
+          "state": "displayed",
+          "path": "W 23RD AV"
+        },
+        {
+          "name": "W BROADWAY",
+          "count": 592,
+          "state": "displayed",
+          "path": "W BROADWAY"
+        },
+        {
+          "name": "E 2ND AV",
+          "count": 590,
+          "state": "displayed",
+          "path": "E 2ND AV"
+        },
+        {
+          "name": "E 51ST AV",
+          "count": 585,
+          "state": "displayed",
+          "path": "E 51ST AV"
+        },
+        {
+          "name": "CARTIER ST",
+          "count": 582,
+          "state": "displayed",
+          "path": "CARTIER ST"
+        },
+        {
+          "name": "BLENHEIM ST",
+          "count": 578,
+          "state": "displayed",
+          "path": "BLENHEIM ST"
+        },
+        {
+          "name": "W 21ST AV",
+          "count": 576,
+          "state": "displayed",
+          "path": "W 21ST AV"
+        },
+        {
+          "name": "E 8TH AV",
+          "count": 567,
+          "state": "displayed",
+          "path": "E 8TH AV"
+        },
+        {
+          "name": "W 5TH AV",
+          "count": 554,
+          "state": "displayed",
+          "path": "W 5TH AV"
+        },
+        {
+          "name": "W 36TH AV",
+          "count": 550,
+          "state": "displayed",
+          "path": "W 36TH AV"
+        },
+        {
+          "name": "OSLER ST",
+          "count": 546,
+          "state": "displayed",
+          "path": "OSLER ST"
+        },
+        {
+          "name": "W 26TH AV",
+          "count": 545,
+          "state": "displayed",
+          "path": "W 26TH AV"
+        },
+        {
+          "name": "DUNBAR ST",
+          "count": 544,
+          "state": "displayed",
+          "path": "DUNBAR ST"
+        },
+        {
+          "name": "SLOCAN ST",
+          "count": 544,
+          "state": "displayed",
+          "path": "SLOCAN ST"
+        },
+        {
+          "name": "W 29TH AV",
+          "count": 537,
+          "state": "displayed",
+          "path": "W 29TH AV"
+        },
+        {
+          "name": "W 38TH AV",
+          "count": 537,
+          "state": "displayed",
+          "path": "W 38TH AV"
+        },
+        {
+          "name": "E 18TH AV",
+          "count": 535,
+          "state": "displayed",
+          "path": "E 18TH AV"
+        },
+        {
+          "name": "E 5TH AV",
+          "count": 535,
+          "state": "displayed",
+          "path": "E 5TH AV"
+        },
+        {
+          "name": "CHARLES ST",
+          "count": 534,
+          "state": "displayed",
+          "path": "CHARLES ST"
+        },
+        {
+          "name": "MANITOBA ST",
+          "count": 534,
+          "state": "displayed",
+          "path": "MANITOBA ST"
+        },
+        {
+          "name": "SE MARINE DRIVE",
+          "count": 534,
+          "state": "displayed",
+          "path": "SE MARINE DRIVE"
+        },
+        {
+          "name": "DUMFRIES ST",
+          "count": 533,
+          "state": "displayed",
+          "path": "DUMFRIES ST"
+        },
+        {
+          "name": "MAPLE ST",
+          "count": 532,
+          "state": "displayed",
+          "path": "MAPLE ST"
+        },
+        {
+          "name": "E 27TH AV",
+          "count": 531,
+          "state": "displayed",
+          "path": "E 27TH AV"
+        },
+        {
+          "name": "ST. CATHERINES ST",
+          "count": 526,
+          "state": "displayed",
+          "path": "ST. CATHERINES ST"
+        },
+        {
+          "name": "BALACLAVA ST",
+          "count": 523,
+          "state": "displayed",
+          "path": "BALACLAVA ST"
+        },
+        {
+          "name": "E 19TH AV",
+          "count": 522,
+          "state": "displayed",
+          "path": "E 19TH AV"
+        },
+        {
+          "name": "MARGUERITE ST",
+          "count": 522,
+          "state": "displayed",
+          "path": "MARGUERITE ST"
+        },
+        {
+          "name": "W 35TH AV",
+          "count": 522,
+          "state": "displayed",
+          "path": "W 35TH AV"
+        },
+        {
+          "name": "SELKIRK ST",
+          "count": 514,
+          "state": "displayed",
+          "path": "SELKIRK ST"
+        },
+        {
+          "name": "SOPHIA ST",
+          "count": 512,
+          "state": "displayed",
+          "path": "SOPHIA ST"
+        },
+        {
+          "name": "W 32ND AV",
+          "count": 511,
+          "state": "displayed",
+          "path": "W 32ND AV"
+        },
+        {
+          "name": "COLUMBIA ST",
+          "count": 509,
+          "state": "displayed",
+          "path": "COLUMBIA ST"
+        },
+        {
+          "name": "E 29TH AV",
+          "count": 509,
+          "state": "displayed",
+          "path": "E 29TH AV"
+        },
+        {
+          "name": "E BROADWAY",
+          "count": 507,
+          "state": "displayed",
+          "path": "E BROADWAY"
+        },
+        {
+          "name": "SW MARINE DRIVE",
+          "count": 504,
+          "state": "displayed",
+          "path": "SW MARINE DRIVE"
+        },
+        {
+          "name": "E 23RD AV",
+          "count": 501,
+          "state": "displayed",
+          "path": "E 23RD AV"
+        },
+        {
+          "name": "WALLACE ST",
+          "count": 501,
+          "state": "displayed",
+          "path": "WALLACE ST"
+        },
+        {
+          "name": "E 11TH AV",
+          "count": 496,
+          "state": "displayed",
+          "path": "E 11TH AV"
+        },
+        {
+          "name": "E 37TH AV",
+          "count": 494,
+          "state": "displayed",
+          "path": "E 37TH AV"
+        },
+        {
+          "name": "W 1ST AV",
+          "count": 494,
+          "state": "displayed",
+          "path": "W 1ST AV"
+        },
+        {
+          "name": "PENTICTON ST",
+          "count": 493,
+          "state": "displayed",
+          "path": "PENTICTON ST"
+        },
+        {
+          "name": "E 15TH AV",
+          "count": 492,
+          "state": "displayed",
+          "path": "E 15TH AV"
+        },
+        {
+          "name": "ST. GEORGE ST",
+          "count": 491,
+          "state": "displayed",
+          "path": "ST. GEORGE ST"
+        },
+        {
+          "name": "E 46TH AV",
+          "count": 489,
+          "state": "displayed",
+          "path": "E 46TH AV"
+        },
+        {
+          "name": "ARGYLE ST",
+          "count": 486,
+          "state": "displayed",
+          "path": "ARGYLE ST"
+        },
+        {
+          "name": "E 20TH AV",
+          "count": 484,
+          "state": "displayed",
+          "path": "E 20TH AV"
+        },
+        {
+          "name": "E 43RD AV",
+          "count": 479,
+          "state": "displayed",
+          "path": "E 43RD AV"
+        }
+      ]
+    },
+    {
+      "name": "neighbourhood_name",
+      "facets": [
+        {
+          "name": "KENSINGTON-CEDAR COTTAGE",
+          "count": 11606,
+          "state": "displayed",
+          "path": "KENSINGTON-CEDAR COTTAGE"
+        },
+        {
+          "name": "RENFREW-COLLINGWOOD",
+          "count": 11345,
+          "state": "displayed",
+          "path": "RENFREW-COLLINGWOOD"
+        },
+        {
+          "name": "HASTINGS-SUNRISE",
+          "count": 10456,
+          "state": "displayed",
+          "path": "HASTINGS-SUNRISE"
+        },
+        {
+          "name": "DUNBAR-SOUTHLANDS",
+          "count": 9730,
+          "state": "displayed",
+          "path": "DUNBAR-SOUTHLANDS"
+        },
+        {
+          "name": "SUNSET",
+          "count": 8496,
+          "state": "displayed",
+          "path": "SUNSET"
+        },
+        {
+          "name": "KITSILANO",
+          "count": 8374,
+          "state": "displayed",
+          "path": "KITSILANO"
+        },
+        {
+          "name": "VICTORIA-FRASERVIEW",
+          "count": 7649,
+          "state": "displayed",
+          "path": "VICTORIA-FRASERVIEW"
+        },
+        {
+          "name": "RILEY PARK",
+          "count": 7183,
+          "state": "displayed",
+          "path": "RILEY PARK"
+        },
+        {
+          "name": "GRANDVIEW-WOODLAND",
+          "count": 7123,
+          "state": "displayed",
+          "path": "GRANDVIEW-WOODLAND"
+        },
+        {
+          "name": "MOUNT PLEASANT",
+          "count": 7092,
+          "state": "displayed",
+          "path": "MOUNT PLEASANT"
+        },
+        {
+          "name": "SHAUGHNESSY",
+          "count": 7016,
+          "state": "displayed",
+          "path": "SHAUGHNESSY"
+        },
+        {
+          "name": "KERRISDALE",
+          "count": 6968,
+          "state": "displayed",
+          "path": "KERRISDALE"
+        },
+        {
+          "name": "KILLARNEY",
+          "count": 6646,
+          "state": "displayed",
+          "path": "KILLARNEY"
+        },
+        {
+          "name": "MARPOLE",
+          "count": 6377,
+          "state": "displayed",
+          "path": "MARPOLE"
+        },
+        {
+          "name": "ARBUTUS-RIDGE",
+          "count": 5401,
+          "state": "displayed",
+          "path": "ARBUTUS-RIDGE"
+        },
+        {
+          "name": "DOWNTOWN",
+          "count": 5144,
+          "state": "displayed",
+          "path": "DOWNTOWN"
+        },
+        {
+          "name": "WEST POINT GREY",
+          "count": 4908,
+          "state": "displayed",
+          "path": "WEST POINT GREY"
+        },
+        {
+          "name": "OAKRIDGE",
+          "count": 4821,
+          "state": "displayed",
+          "path": "OAKRIDGE"
+        },
+        {
+          "name": "FAIRVIEW",
+          "count": 4263,
+          "state": "displayed",
+          "path": "FAIRVIEW"
+        },
+        {
+          "name": "WEST END",
+          "count": 3596,
+          "state": "displayed",
+          "path": "WEST END"
+        },
+        {
+          "name": "SOUTH CAMBIE",
+          "count": 3495,
+          "state": "displayed",
+          "path": "SOUTH CAMBIE"
+        },
+        {
+          "name": "STRATHCONA",
+          "count": 2679,
+          "state": "displayed",
+          "path": "STRATHCONA"
+        }
+      ]
+    },
+    {
+      "name": "street_side_name",
+      "facets": [
+        {
+          "name": "EVEN",
+          "count": 71912,
+          "state": "displayed",
+          "path": "EVEN"
+        },
+        {
+          "name": "ODD",
+          "count": 71499,
+          "state": "displayed",
+          "path": "ODD"
+        },
+        {
+          "name": "MED",
+          "count": 3575,
+          "state": "displayed",
+          "path": "MED"
+        },
+        {
+          "name": "PARK",
+          "count": 3203,
+          "state": "displayed",
+          "path": "PARK"
+        },
+        {
+          "name": "BIKE MED",
+          "count": 145,
+          "state": "displayed",
+          "path": "BIKE MED"
+        },
+        {
+          "name": "GREENWAY",
+          "count": 34,
+          "state": "displayed",
+          "path": "GREENWAY"
+        }
+      ]
+    },
+    {
+      "name": "curb",
+      "facets": [
+        {
+          "name": "Y",
+          "count": 134364,
+          "state": "displayed",
+          "path": "Y"
+        },
+        {
+          "name": "N",
+          "count": 16004,
+          "state": "displayed",
+          "path": "N"
+        }
+      ]
+    },
+    {
+      "name": "date_planted",
+      "facets": [
+        {
+          "name": "1989",
+          "count": 288,
+          "state": "displayed",
+          "path": "1989"
+        },
+        {
+          "name": "1990",
+          "count": 1121,
+          "state": "displayed",
+          "path": "1990"
+        },
+        {
+          "name": "1991",
+          "count": 563,
+          "state": "displayed",
+          "path": "1991"
+        },
+        {
+          "name": "1992",
+          "count": 1717,
+          "state": "displayed",
+          "path": "1992"
+        },
+        {
+          "name": "1993",
+          "count": 2076,
+          "state": "displayed",
+          "path": "1993"
+        },
+        {
+          "name": "1994",
+          "count": 1825,
+          "state": "displayed",
+          "path": "1994"
+        },
+        {
+          "name": "1995",
+          "count": 2822,
+          "state": "displayed",
+          "path": "1995"
+        },
+        {
+          "name": "1996",
+          "count": 3012,
+          "state": "displayed",
+          "path": "1996"
+        },
+        {
+          "name": "1997",
+          "count": 2713,
+          "state": "displayed",
+          "path": "1997"
+        },
+        {
+          "name": "1998",
+          "count": 3442,
+          "state": "displayed",
+          "path": "1998"
+        },
+        {
+          "name": "1999",
+          "count": 2697,
+          "state": "displayed",
+          "path": "1999"
+        },
+        {
+          "name": "2000",
+          "count": 2826,
+          "state": "displayed",
+          "path": "2000"
+        },
+        {
+          "name": "2001",
+          "count": 2614,
+          "state": "displayed",
+          "path": "2001"
+        },
+        {
+          "name": "2002",
+          "count": 3306,
+          "state": "displayed",
+          "path": "2002"
+        },
+        {
+          "name": "2003",
+          "count": 2520,
+          "state": "displayed",
+          "path": "2003"
+        },
+        {
+          "name": "2004",
+          "count": 3004,
+          "state": "displayed",
+          "path": "2004"
+        },
+        {
+          "name": "2005",
+          "count": 2478,
+          "state": "displayed",
+          "path": "2005"
+        },
+        {
+          "name": "2006",
+          "count": 2865,
+          "state": "displayed",
+          "path": "2006"
+        },
+        {
+          "name": "2007",
+          "count": 2549,
+          "state": "displayed",
+          "path": "2007"
+        },
+        {
+          "name": "2008",
+          "count": 2737,
+          "state": "displayed",
+          "path": "2008"
+        },
+        {
+          "name": "2009",
+          "count": 2687,
+          "state": "displayed",
+          "path": "2009"
+        },
+        {
+          "name": "2010",
+          "count": 2267,
+          "state": "displayed",
+          "path": "2010"
+        },
+        {
+          "name": "2011",
+          "count": 2638,
+          "state": "displayed",
+          "path": "2011"
+        },
+        {
+          "name": "2012",
+          "count": 2519,
+          "state": "displayed",
+          "path": "2012"
+        },
+        {
+          "name": "2013",
+          "count": 3163,
+          "state": "displayed",
+          "path": "2013"
+        },
+        {
+          "name": "2014",
+          "count": 2007,
+          "state": "displayed",
+          "path": "2014"
+        },
+        {
+          "name": "2015",
+          "count": 1101,
+          "state": "displayed",
+          "path": "2015"
+        },
+        {
+          "name": "2016",
+          "count": 1451,
+          "state": "displayed",
+          "path": "2016"
+        },
+        {
+          "name": "2017",
+          "count": 943,
+          "state": "displayed",
+          "path": "2017"
+        },
+        {
+          "name": "2018",
+          "count": 831,
+          "state": "displayed",
+          "path": "2018"
+        },
+        {
+          "name": "2019",
+          "count": 1034,
+          "state": "displayed",
+          "path": "2019"
+        }
+      ]
+    }
+  ]
+}
